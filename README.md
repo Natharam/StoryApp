@@ -1,2 +1,2 @@
 # StoryApp
-A NodeJs App to create sotries.
+A MERN stack App to create sotries.
